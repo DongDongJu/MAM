@@ -1,6 +1,9 @@
-
-Running AmazonCognitoYourUserPoolsDemo 
+MAM ( My A.I Music )
 ======================================
+
+Used source 
+
+Amazon Cognito userpool demo 
 
 1. Create Your user pool on the Cognito console
    - Go to https://console.aws.amazon.com/cognito/ , the console contains step-by-step instructions to create the pool.
