@@ -12,6 +12,8 @@
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <color name="ColorPrimary">#e62117</color>
+    <color name="ColorPrimaryDart">#c31c13</color>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
@@ -89,6 +91,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="tabsScrollColor">#8a140e</color>
     <color name="text_border_default">#303232</color>
     <color name="text_border_selected">#4EA9DC</color>
     <color name="toolbar_background">#404142</color>
@@ -304,10 +307,10 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about">Copyright 2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.\n\nLicensed under the Amazon Software License (the "License").\nYou may not use this file except in compliance with the License.\nA copy of the License is located at\n\nhttp://aws.amazon.com/asl/
 \n\nor in the "license" file accompanying this app. This app is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</string>
-    <string name="app_main_desc">A sample app to showcase Cognito Identity and the SDK for Android.</string>
+    <string name="app_main_desc">Make A.i Music ! </string>
     <string name="app_main_screen">Sign in</string>
-    <string name="app_main_screen_title">Cognito Identity</string>
-    <string name="app_name">Cognito Identity</string>
+    <string name="app_main_screen_title">MAM ! </string>
+    <string name="app_name">MAM</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="more_info">This is a sample app to showcase Cognito Identity and the SDK for Android.</string>

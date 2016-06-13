@@ -4,7 +4,7 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="61119476759869" >
+    timestamp="117120614668035" >
 
     <task
         name="javac"
@@ -19,6 +19,14 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="61119476759869" />
+    <artifact
+        location="/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="117120614668035" >
+        <artifact
+            location="/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
 
 </instant-run>

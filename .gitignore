@@ -1,6 +1,10 @@
+#compile file#
+##############
+*.class
 #Confuguration files#
 #####################
 AppHelper.java
+
 #OS generated files#
 ####################
 

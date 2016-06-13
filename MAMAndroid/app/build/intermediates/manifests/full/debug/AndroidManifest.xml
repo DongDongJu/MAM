@@ -34,6 +34,10 @@
             android:name="com.amazonaws.youruserpools.RegisterUser"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
+            android:name="com.amazonaws.youruserpools.SlidingTabActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
             android:name="com.amazonaws.youruserpools.AboutApp"
             android:label="@string/title_activity_about_app"
             android:theme="@style/AppTheme.NoActionBar" />

@@ -313,7 +313,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void launchUser() {
-        Intent userActivity = new Intent(this, UserActivity.class);
+        Intent userActivity = new Intent(this, SlidingTabActivity.class);
         userActivity.putExtra("name", username);
         startActivityForResult(userActivity, 4);
     }

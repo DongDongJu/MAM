@@ -1,2 +1,2 @@
-CHANGED,/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/amazonaws/youruserpools/AppHelper$override.class
+CHANGED,/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/amazonaws/youruserpools/SlidingTabActivity$override.class
 CHANGED,/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
