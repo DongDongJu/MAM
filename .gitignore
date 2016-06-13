@@ -1,0 +1,8 @@
+#Confuguration files#
+#####################
+AppHelper.java
+#OS generated files#
+####################
+
+.DS_Store*
+

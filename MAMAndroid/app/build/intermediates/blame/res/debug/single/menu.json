@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/menu/activity_user_drawer.xml",
+        "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/src/main/res/menu/activity_user_drawer.xml"
+    },
+    {
+        "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/menu/activity_user_menu.xml",
+        "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/src/main/res/menu/activity_user_menu.xml"
+    }
+]
