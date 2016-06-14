@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
     private ForgotPasswordContinuation forgotPasswordContinuation;
 
     // User Details
-    private String username;
+    public static String username;
     private String password;
 
     // Mandatory overrides first

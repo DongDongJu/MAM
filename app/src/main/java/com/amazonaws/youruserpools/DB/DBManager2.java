@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Created by DongJu on 2016. 6. 14..
  */
-public class DBManager {
+public class DBManager2 {
     public static String[] songs;
     public static String[] idxs;
     public static List<Song> selectedSong;
@@ -16,8 +16,8 @@ public class DBManager {
     public static final String TAG_IDX = "idx";
     public static final String TAG_Song = "songName";
     public static final String TAG_JSON_ARRAY = "result";
-
-    public DBManager(int i){
+    public static Integer Num;
+    public DBManager2(int i){
         songs = new String[i];
         idxs = new String[i];
         selectedSong = new ArrayList<>();

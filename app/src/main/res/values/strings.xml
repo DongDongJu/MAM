@@ -20,4 +20,7 @@
     <string name="title_activity_change_password">ChangePasswordActivity</string>
     <string name="title_activity_verify">VerifyActivity</string>
     <string name="title_activity_add_attribute">AddAttributeActivity</string>
+    <string name="title_activity_mediaplayer">Song Sample</string>
+    <string name="button_add_selected">add song</string>
+    <string name="button_delete_song">delete song from list</string>
 </resources>

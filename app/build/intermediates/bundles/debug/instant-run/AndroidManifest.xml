@@ -70,6 +70,8 @@
             android:name="com.amazonaws.youruserpools.AddAttributeActivity"
             android:label="@string/title_activity_add_attribute"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.amazonaws.youruserpools.MediaPlayerActivity" >
+        </activity>
     </application>
 
 </manifest>

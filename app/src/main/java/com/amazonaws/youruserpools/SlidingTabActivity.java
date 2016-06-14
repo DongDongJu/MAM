@@ -1,4 +1,5 @@
 package com.amazonaws.youruserpools;
+import android.content.Intent;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -19,6 +20,7 @@ public class SlidingTabActivity extends ActionBarActivity {
     ViewPager pager;
     ViewPagerAdapter adapter;
     SlidingTabLayout tabs;
+    public static String userName;
     CharSequence Titles[]={"Song List","My Song", "MAM!"};
     int Numboftabs =3;
 
@@ -26,8 +28,7 @@ public class SlidingTabActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sliding);
-
-
+        Intent temp = getIntent();
         // Creating The Toolbar and setting it as the Toolbar for the activity
 
         toolbar = (Toolbar) findViewById(R.id.tool_bar);

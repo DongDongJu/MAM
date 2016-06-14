@@ -19,5 +19,7 @@
     <color name="ColorPrimary">#e62117</color>
     <color name="ColorPrimaryDart">#c31c13</color>
     <color name="tabsScrollColor">#8a140e</color>
-
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDivider">#B6B6B6</color>
 </resources>

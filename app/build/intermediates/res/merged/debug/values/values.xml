@@ -39,6 +39,9 @@
     <color name="cardview_light_background">#FFFAFAFA</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDivider">#B6B6B6</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
     <color name="design_fab_shadow_start_color">#44000000</color>
@@ -320,6 +323,8 @@
     <string name="app_main_screen_title">MAM ! </string>
     <string name="app_name">MAM</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="button_add_selected">add song</string>
+    <string name="button_delete_song">delete song from list</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="more_info">This is a sample app to showcase Cognito Identity and the SDK for Android.</string>
     <string name="nav_drawer_close">Close navigation drawer</string>
@@ -329,6 +334,7 @@
     <string name="title_activity_add_attribute">AddAttributeActivity</string>
     <string name="title_activity_change_password">ChangePasswordActivity</string>
     <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_mediaplayer">Song Sample</string>
     <string name="title_activity_mfa">MFAActivity</string>
     <string name="title_activity_settings">SettingsActivity</string>
     <string name="title_activity_sign_up_confirm">SignUpConfirm</string>

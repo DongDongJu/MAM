@@ -10,8 +10,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
+import com.amazonaws.transform.SimpleTypeJsonUnmarshallers;
 import com.amazonaws.youruserpools.CognitoYourUserPoolsDemo.R;
 import com.amazonaws.youruserpools.Data.Song;
+import com.amazonaws.youruserpools.MediaPlayerActivity;
 
 import java.util.List;
 
@@ -20,7 +22,7 @@ import java.util.List;
  * Created by grid on 16. 5. 8..
  */
 public class RVAdapter extends RecyclerView.Adapter<RVAdapter.StateViewHolder> {
-
+    public static List<Song> songs;
     public static class StateViewHolder extends RecyclerView.ViewHolder {
 
         CardView cv;
@@ -34,6 +36,10 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.StateViewHolder> {
                 @Override
                 public void onClick(View view) {
                     //when cardview click
+                    Integer tag = (Integer)view.getTag();
+                    Intent mediaplayerIntent = new Intent(view.getContext(), MediaPlayerActivity.class);
+                    mediaplayerIntent.putExtra("idx",songs.get(tag).songName);
+                    view.getContext().startActivity(mediaplayerIntent);
                 }
             });
             songName = (TextView)itemView.findViewById(R.id.song_name);
@@ -41,7 +47,6 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.StateViewHolder> {
         }
     }
 
-    List<Song> songs;
 
     RVAdapter(List<Song> songs){
         this.songs = songs;
