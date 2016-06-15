@@ -136,12 +136,12 @@
         "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_lines.xml"
-    },
-    {
         "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_lines.xml"
     },
     {
         "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
@@ -326,6 +326,10 @@
     {
         "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/layout/content_mfa.xml",
         "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/src/main/res/layout/content_mfa.xml"
+    },
+    {
+        "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/layout/tab_aimusic.xml",
+        "source": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/src/main/res/layout/tab_aimusic.xml"
     },
     {
         "merged": "/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/layout/content_add_attribute.xml",

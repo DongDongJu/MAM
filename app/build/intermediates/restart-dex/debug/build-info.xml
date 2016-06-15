@@ -4,26 +4,26 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="218097362452738" >
+    timestamp="230509741469037" >
 
     <task
         name="javac"
-        duration="239" />
+        duration="614" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="9" />
+        duration="341" />
     <task
         name="verifier"
-        duration="2" />
+        duration="110" />
 
     <artifact
         location="/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="218097362452738" >
+    <build timestamp="230509741469037" >
         <artifact
             location="/Users/DongJu/Desktop/aws-sdk-android-samples-master/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />

@@ -43,6 +43,7 @@ public class MediaPlayerActivity extends AppCompatActivity implements SurfaceHol
             @Override
             public void onClick(View view) {
                 addSong();
+                Toast.makeText(view.getContext(),"add success",Toast.LENGTH_SHORT);
             }
         });
         Button deleteButton = (Button)findViewById(R.id.delete_button);
@@ -50,6 +51,7 @@ public class MediaPlayerActivity extends AppCompatActivity implements SurfaceHol
             @Override
             public void onClick(View view) {
                 delSong();
+                Toast.makeText(view.getContext(),"delete success",Toast.LENGTH_SHORT);
             }
         });
     }

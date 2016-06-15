@@ -13,7 +13,7 @@ public class DBManager2 {
     public static String[] idxs;
     public static List<Song> selectedSong;
     public static final String GET_USABLE_SONG_URL = "http://52.79.159.37/viewAllSongList.php";
-    public static final String TAG_IDX = "idx";
+    public static final String TAG_IDX = "userName";
     public static final String TAG_Song = "songName";
     public static final String TAG_JSON_ARRAY = "result";
     public static Integer Num;

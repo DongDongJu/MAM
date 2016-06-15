@@ -21,8 +21,8 @@ public class SlidingTabActivity extends ActionBarActivity {
     ViewPagerAdapter adapter;
     SlidingTabLayout tabs;
     public static String userName;
-    CharSequence Titles[]={"Song List","My Song", "MAM!"};
-    int Numboftabs =3;
+    CharSequence Titles[]={"Song List","My Song", "MAM!","MAMsong"};
+    int Numboftabs =4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

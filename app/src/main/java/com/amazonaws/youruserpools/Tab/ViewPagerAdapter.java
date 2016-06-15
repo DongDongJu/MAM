@@ -36,10 +36,15 @@ public class ViewPagerAdapter extends FragmentStatePagerAdapter {
             TabSelectedSong tab2 = new TabSelectedSong();
             return tab2;
         }
-        else
+        else if(position == 2)
         {
             TabMam tab3 = new TabMam();
             return tab3;
+        }
+        else
+        {
+            TabAIMusic tab4 = new TabAIMusic();
+            return tab4;
         }
 
 

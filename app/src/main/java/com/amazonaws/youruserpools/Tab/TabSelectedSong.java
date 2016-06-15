@@ -46,7 +46,7 @@ import java.util.List;
 public class TabSelectedSong extends Fragment {
     private List<Song> songs;
     private RecyclerView rv;
-    private DBManager2 config2;
+    public static DBManager2 config2;
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View v =inflater.inflate(R.layout.tab_selectedsong,container,false);
@@ -67,7 +67,7 @@ public class TabSelectedSong extends Fragment {
     }
 
     private void initializeAdapter(){
-        RVAdapter adapter = new RVAdapter(songs);
+        RV2Adapter adapter = new RV2Adapter(songs);
         rv.setAdapter(adapter);
     }
     private void getData(){

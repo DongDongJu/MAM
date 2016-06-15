@@ -35,22 +35,5 @@
         android:layout_alignStart="@+id/saveButton"
         android:layout_alignEnd="@+id/saveButton" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:id="@+id/selectedNum"
-        android:layout_below="@+id/placeText"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="46dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="songsNum:"
-        android:id="@+id/textView3"
-        android:layout_alignTop="@+id/selectedNum"
-        android:layout_toStartOf="@+id/placeText" />
 
 </RelativeLayout>
